@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "faker": "^5.5.3",
+    "faker": "^4.1.0",
     "html-webpack-plugin": "^5.3.1",
     "webpack": "^5.39.0",
     "webpack-cli": "^4.7.2",
